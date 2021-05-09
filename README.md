@@ -28,14 +28,13 @@ Server run on `localhost:3000`
 npm test
 ```
 
-
 ## Technologies:
 Node.js, Express.js, 
 ## External API:
 AWS s3
 ## Test tools:
-Mocha ? 
-## Code best practice:
+Jest 
+## Code style best practice:
 ESlint
 
 ## Features and endpoints
