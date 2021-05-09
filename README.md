@@ -3,7 +3,7 @@
 Repository for adding, searching and downloading images to/from local storage with `Node.js` fs module or `AWS SDK` s3 bucket with public and private access.
 
 
-## Instalation:
+## Instalation
 ```
 npm install
 ```
@@ -28,13 +28,16 @@ Server run on `localhost:3000`
 npm test
 ```
 
-## Technologies:
+## Technologies
 Node.js, Express.js 
-## External API:
+
+## External API
 AWS s3
-## Test tools:
+
+## Test tools
 Jest 
-## Code style best practice:
+
+## Code style best practice
 ESlint
 
 ## Features and endpoints
