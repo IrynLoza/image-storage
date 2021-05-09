@@ -29,7 +29,7 @@ npm test
 ```
 
 ## Technologies:
-Node.js, Express.js, 
+Node.js, Express.js 
 ## External API:
 AWS s3
 ## Test tools:
